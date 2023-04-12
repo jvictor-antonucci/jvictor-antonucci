@@ -24,7 +24,6 @@
     <img src="https://img.icons8.com/color/30/000000/kotlin.png" title="kotlin">&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/swift.png" title="swift">&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/wordpress.png" title="wordpress">&ensp;&ensp;
-    <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="25px" title="html5">&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/css3.png" title="css3"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/python.png" title="python"/>&ensp;&ensp;
 </div>
