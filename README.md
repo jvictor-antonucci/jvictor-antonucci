@@ -1,10 +1,10 @@
 ### Hi there! I'm João Victor &nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 💻 Currently working with Dart <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="15px" /> + Flutter <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="15px"/><br/>
-👨‍💻 Mobile Developer at <a href="https://ilia.digital/">Ília Digital</a><br/>
+👨‍💻 Mobile Developer at <a href="https://ilia.digital/">Ília Digital</a><br/> - BMW Partner
 📚 Studying a bachelor's degree in Computer Engineering at <a href="https://www.ufg.br/">UFG</a>, scheduled to end in 2022<br/>
-🤓 Learning more about native mobile development & UX/UI<br/>
-🎉 23 years old<br/>
+🤓 Learning more about native mobile development, back-end development & UX/UI<br/>
+🎉 25 years old<br/>
 📌 Currently living in Goiânia, Goiás - Brazil<br/>
 
  ---
