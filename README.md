@@ -26,6 +26,7 @@
     <img src="https://img.icons8.com/color/30/000000/wordpress.png" title="wordpress">&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/css3.png" title="css3"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/python.png" title="python"/>&ensp;&ensp;
+    <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" width="16px" title="figma">&ensp;&ensp;
 </div>
   
  ---
